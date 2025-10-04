@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.pros {
+    width: 300px;
+    float:left;
+}
+
+.cons {
+    width: 300px;
+    float:right;
+}
