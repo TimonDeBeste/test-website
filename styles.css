@@ -4,11 +4,11 @@ body {
 }
 
 .pros {
-    width: 300px;
+    width: 50vw;
     float:left;
 }
 
 .cons {
-    width: 300px;
+    width: 50vw;
     float:right;
 }
